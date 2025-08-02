@@ -1,6 +1,6 @@
 # 💣 Campo Minado em Java Swing
 
-Bem-vindo ao projeto do jogo Campo Minado, uma aplicação desktop clássica desenvolvida em Java, utilizando a biblioteca **Java Swing** para a interface gráfica. O jogo oferece uma experiência de lógica e raciocínio em um ambiente gráfico simples e funcional.
+Bem-vindo ao projeto do jogo Campo Minado, este foi meu primeiro projeto feito em 2023 de uma aplicação desktop clássica desenvolvida em Java, utilizando a biblioteca **Java Swing** para a interface gráfica. O jogo oferece uma experiência de lógica e raciocínio em um ambiente gráfico simples e funcional.
 
 ### 🎮 Visão Geral
 
